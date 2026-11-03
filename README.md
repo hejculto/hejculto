@@ -10,4 +10,6 @@ I’m a digital designer with over 19 years of experience working with brands, a
 - **HEJ STUDIO · Creative Mentorship** — An online academy programme where people aged 15 and up develop a project of their own through digital design, with AI tools where they help. Sessions are in English. [Explore the mentorship](https://www.hejstudio.dk/mentorship)
 - **DANTE’S INFERNO** — An independent animated series made for vertical viewing. I lead creative direction and develop AI-assisted production workflows with human review. [Watch the series](https://enterdantesinferno.com/)
 
+**Automation case study** — [Finding leads with n8n](case-studies/n8n-lead-discovery.md)
+
 [Connect on LinkedIn](https://www.linkedin.com/in/cesarmaldo/)
